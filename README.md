@@ -9,4 +9,5 @@
 5) Introduim al navegador aquesta URL:
 
 Ubuntu: http://localhost:8000/webCarrito/EShop.jsp
+
 Windows: http://localhost:8080/webCarrito/EShop.jsp
